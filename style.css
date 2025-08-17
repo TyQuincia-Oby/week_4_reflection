@@ -1,3 +1,13 @@
 body {
     background-color: dodgerblue;
 }
+img {
+    border-radius: 50px;
+    
+}
+h1{
+    border-radius: 50px;
+}
+.bg-warning {
+    border-radius: 50px;
+}
