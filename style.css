@@ -2,8 +2,9 @@ body {
     background-color: dodgerblue;
 }
 img {
-    border-radius: 50px;
-    
+    border-radius: 100px 100px 0 100px;
+    width: 400px;
+    margin: 20px;
 }
 h1{
     border-radius: 50px;
